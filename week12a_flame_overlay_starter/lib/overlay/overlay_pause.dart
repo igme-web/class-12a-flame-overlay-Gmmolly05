@@ -36,6 +36,7 @@ Widget pauseOverlay(BuildContext context, game) {
           ElevatedButton(
             onPressed: () {
               // TODO: Quit functionality
+              
             },
             child: const Text("Quit"),
           ),

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import '../game.dart';
+import 'package:provider/provider.dart';
+import '../game_provider.dart';
 
 class OverlayTitle extends StatelessWidget {
   final game;

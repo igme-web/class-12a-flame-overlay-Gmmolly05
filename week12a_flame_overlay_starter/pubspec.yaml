@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
   flame: ^1.33.0
   webview_flutter: ^4.13.0
+  provider: ^6.1.5+1
+  audioplayers: ^6.5.1
 
 dev_dependencies:
   flutter_test:
@@ -22,3 +24,4 @@ flutter:
   
   assets:
       - assets/images/
+      - assets/audio/
